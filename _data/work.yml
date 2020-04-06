@@ -1,0 +1,54 @@
+- position: Position
+  business: Business
+  location: City, State
+  duration: Time Duration
+  description: 
+    - Self abstract law reason virtues salvation battle society
+    - Contradict free derive superiority chaos eternal-return war joy overcome
+  extras:
+    - workshops:
+      button-text: Item 1
+      url: url
+      icon: fab fa-github
+    - workshop-environment:
+      button-text: Item 2
+      url: url
+      icon: fab fa-github
+    - quantum-computing-codex:
+      button-text: Item 3
+      url: url
+      icon: fas fa-bolt
+
+- position: Another Position
+  business: Business
+  location: City, State 
+  duration: Duration 
+  description:
+    - Moral of society aversion transvaluation sea revaluation ideal
+    - Hatred justice overcome virtues convictions derive inexpedient pinnacle spirit
+    - Insofar victorious philosophy enlightenment marvelous noble spirit transvaluation zarathustra
+  extras:
+    - letter-of-rec-1:
+      button-text: Letter of Recommendation 1
+      url: url
+      icon: fas fa-file-alt
+    - letter-of-rec-2:
+      button-text: Letter of Recommendation 2
+      url: url
+      icon: fas fa-file-alt
+    - project-1:
+      button-text: Oneself victorious free
+      url: url
+      icon: fab fa-github
+
+- position: First Job 
+  business: Business
+  location: City, State
+  duration: Duration
+  description:
+    - Hatred ubermensch strong hope justice evil depths strong law truth sea deceptions superiority justice.
+    - War hope madness abstract revaluation revaluation justice joy virtues
+
+
+
+    

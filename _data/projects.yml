@@ -1,0 +1,69 @@
+- category: Chemistry
+  icon: fas fa-atom
+  description: >
+    We didn't build the interstate system to connect New York to Los Angeles because the West Coast 
+    was a priority. No, we webbed the highways so people can go to multiple places and invent ways of doing things 
+    not thought of by the persons building the roads.
+  projects:
+    - name: Iota
+      description: When you innovate, you create new industries that then boost your economy.
+      links:
+        - name: Alpha
+          icon: fab fa-github
+          link: url-to-project
+    - name: Hephaestus
+      description: Special relativity, his work in quantum mechanics, nobody even knows or cares.
+      links:
+        - name: Omicron
+          icon: fab fa-github
+          link: url-to-stuff
+        - name: Docker
+          icon: fab fa-docker
+          link: url-to-stuff
+    - name: Grok
+      description: All other aliens are trying to suck our brains out.
+      links:
+        - name: Zero
+          icon: fab fa-github
+          link: url-to-stuff
+        - name: One
+          icon: fas fa-book
+          link: url-to-stuff
+    - name: Venus
+      description: The caricature of science is that we hold tight to the theories we have, and shun challenges to them.
+      links:
+        - name: Github
+          icon: fab fa-github 
+          link: url-to-stuff
+        
+
+- category: Hardware
+  icon: fas fa-microchip
+  description: Private enterprise in the history of civilization has never led large, expensive, dangerous projects with unknown risks.
+  projects:
+    - name: Zeta
+      description: > 
+        Pluto's orbit is so elongated that it crosses the orbit of another planet. Now that's... 
+        you've got no business doing that if you want to call yourself a planet. Come on, now! 
+        There's something especially transgressive about that.
+      links:
+        - name: Balthasar
+          icon: fab fa-github
+          link: url-to-stuff
+    - name: Xi 
+      description: >
+        a program for the Arduino UNO that llows it to read and write to older generation DIP format SRAM chips 
+        (targeted for the UM6126AK-15 chips)
+      links:
+        - name: Ritusko Akagi
+          icon: fab fa-github
+          link: url-to-stuff
+    - name: Rho
+      description: >
+        We have bred multiple generations of people who have not experienced 
+        knowing where you are the moment a news story broke, with that news story being great and 
+        grand and something that elevates society instead of diminishes it.
+      links:
+        - name: Melchior
+          icon: fab fa-github
+          link: url-to-stuff
