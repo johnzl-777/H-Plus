@@ -1,0 +1,35 @@
+I"�	<p>Here’s a “fun” integral (just to test if MathJax is working properly)</p>
+
+<script type="math/tex; mode=display">\int^{\infty}_{-\infty} \frac{dx}{(e^{x} - x)^2 + \pi^2} = \frac{1}{1+\Omega}</script>
+
+<p>Along with a little bit of inline MathJax: <script type="math/tex">x</script>, <script type="math/tex">y</script>, <script type="math/tex">z</script>, <script type="math/tex">\rho</script></p>
+
+<p>Now lets go for syntax highlighting, first with Ruby:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">foo</span>
+  <span class="nb">puts</span> <span class="s1">'foo'</span>
+<span class="k">end</span>
+</code></pre></div></div>
+<p>Now we shoot for Python:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">):</span>
+    <span class="k">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>And let’s do C for safe call</p>
+
+<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kt">void</span> <span class="nf">XorSwap</span><span class="p">(</span> <span class="kt">int</span><span class="o">*</span> <span class="n">x</span><span class="p">,</span> <span class="kt">int</span><span class="o">*</span> <span class="n">y</span> <span class="p">)</span> 
+<span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="n">x</span> <span class="o">!=</span> <span class="n">y</span><span class="p">)</span>
+  <span class="p">{</span>
+    <span class="o">*</span><span class="n">x</span> <span class="o">^=</span> <span class="o">*</span><span class="n">y</span><span class="p">;</span>
+    <span class="o">*</span><span class="n">y</span> <span class="o">^=</span> <span class="o">*</span><span class="n">x</span><span class="p">;</span>
+    <span class="o">*</span><span class="n">x</span> <span class="o">^=</span> <span class="o">*</span><span class="n">y</span><span class="p">;</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Time for some pictures as well!</p>
+
+<p><img src="/images/sleeping_cat.jpg" alt="A sleeping cat" /></p>
+:ET

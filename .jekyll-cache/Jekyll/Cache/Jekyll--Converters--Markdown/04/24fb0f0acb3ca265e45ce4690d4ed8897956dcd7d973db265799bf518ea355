@@ -1,0 +1,48 @@
+I"°
+<h4>All of the article tags used on the site:</h4>
+<div style="padding-left:1.6em">
+<ul>
+
+	<li>
+        <a href="/tag/another-tag"> another-tag </a>
+    </li>
+
+	<li>
+        <a href="/tag/c"> c </a>
+    </li>
+
+	<li>
+        <a href="/tag/c"> c++ </a>
+    </li>
+
+	<li>
+        <a href="/tag/fortran"> fortran </a>
+    </li>
+
+	<li>
+        <a href="/tag/hello"> hello </a>
+    </li>
+
+	<li>
+        <a href="/tag/markdown"> markdown </a>
+    </li>
+
+	<li>
+        <a href="/tag/math"> math </a>
+    </li>
+
+	<li>
+        <a href="/tag/python"> python </a>
+    </li>
+
+	<li>
+        <a href="/tag/tag1"> tag1 </a>
+    </li>
+
+	<li>
+        <a href="/tag/tag3"> tag3 </a>
+    </li>
+
+</ul>
+</div>
+:ET

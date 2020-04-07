@@ -1,0 +1,27 @@
+I"<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Email</strong></td>
+      <td>hello@hello.com</td>
+    </tr>
+    <tr>
+      <td><strong>Cell</strong></td>
+      <td>111-111-1111</td>
+    </tr>
+    <tr>
+      <td><strong>LinkedIn</strong></td>
+      <td><a href="put-linkedin-url-here">my-linkedin</a></td>
+    </tr>
+    <tr>
+      <td><strong>Github</strong></td>
+      <td><a href="put-github-url-here">my-github</a></td>
+    </tr>
+  </tbody>
+</table>
+:ET
