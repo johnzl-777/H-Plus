@@ -99,6 +99,8 @@ header li {
 
 header a.active {
 	font-weight: bold;
+	color: white;
+	background: black;
 }
 
 header,section {
@@ -189,7 +191,7 @@ header li {
 header ul {
 	border-bottom: 1px solid #edf2f7;
 	padding-bottom: 2rem;	
-	overflow: visible;
+	// overflow: visible;
 }
 nav ul {
 	border-right: 0px;
