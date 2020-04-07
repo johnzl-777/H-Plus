@@ -2,7 +2,6 @@
 layout: post
 title: Hello World!
 description: My First Post
-summary: My first post to give this blog a spin
 tags: hello math
 ---
 

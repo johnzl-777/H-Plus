@@ -2,7 +2,6 @@
 layout: post
 title: Code Examples
 description: Example of code highlighting
-summary: Example of code highlighting
 tags: fortran c++ c python
 ---
 FORTRAN
