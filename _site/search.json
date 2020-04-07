@@ -31,6 +31,17 @@
       "date"     : "2020-02-19 00:00:00 -0600",
       "discription" : "Example of code highlighting"
 
+    } ,
+  
+    {
+
+      "title"    : "No Code",
+      "url"      : "/2020/01/05/no-code",
+      "category" : "",
+      "tags"     : "code",
+      "date"     : "2020-01-05 00:00:00 -0600",
+      "discription" : "Example of no code"
+
     } 
   
 ]

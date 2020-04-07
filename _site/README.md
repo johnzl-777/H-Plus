@@ -12,7 +12,7 @@ Fonts from [Google Fonts](https://fonts.google.com/), icons from [Font Awesome](
 
 ## Usage Warning
 
-This theme wasn't originally developed with the intention of being a theme. It was something that I hacked together over a week for my [own personal website](www.johnzl.com). However, I wanted a way to make sure that any edits I made didn't end up breaking pre-existing content, hence my idea to give my "theme" its own repository. Also, there was quite a decent amount of unique clones on that personal website repo, so I assume they were more interested in the theme than my website itself.
+This theme wasn't originally developed with the intention of being a theme. It was something that I hacked together over a week for my [own personal website](https://johnzl-777.github.io/). However, I wanted a way to make sure that any edits I made didn't end up breaking pre-existing content, hence my idea to give my "theme" its own repository. Also, there was quite a decent amount of unique clones on that personal website repo, so I assume they were more interested in the theme than my website itself.
 
 The Sass and layouts are somewhat messy but I plan to touch things up as I work towards a cleaner and more streamlined design for my own website.
 

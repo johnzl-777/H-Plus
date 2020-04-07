@@ -86,6 +86,30 @@
                 }
                 
             
+        },
+    
+        {
+            "id": "http://0.0.0.0:4000/2020/01/05/no-code",
+            "title": "No Code",
+            "summary": "Example of no code",
+            "content_text": "This is a test with no codeThe text here will come out white as it should bebecause there is no syntax highlighting on.  Here’s some quoted text just for display",
+            "content_html": "<p>This is a test with no code</p><div class=\"highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>The text here will come out white as it should bebecause there is no syntax highlighting on.</code></pre></div></div><blockquote>  <p>Here’s some quoted text just for display</p></blockquote>",
+            "url": "http://0.0.0.0:4000/2020/01/05/no-code",
+            
+            
+            
+            
+            
+            "date_published": "2020-01-05T00:00:00-06:00",
+            "date_modified": "2020-01-05T00:00:00-06:00",
+            
+                "author":  {
+                "name": "First Last",
+                "url": "site-url",
+                "avatar": null
+                }
+                
+            
         }
     
     ]
