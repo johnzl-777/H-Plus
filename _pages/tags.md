@@ -41,7 +41,7 @@ The purpose of this snippet is to list all the tags you have in your site.
 
 <h4>All of the article tags used on the site:</h4>
 <div style="padding-left:1.6em">
-<ul>
+<ul  style="padding-left:0em">
 {% for tag in tags %}
 	<li>
         <a href="/tag/{{ tag | slugify }}"> {{ tag }} </a>
