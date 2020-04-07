@@ -5,7 +5,7 @@ title: Search
 
 <style>
 	#search-container {
-	    max-width: 100%;
+		max-width: 100%;
 	}
 
 	input[type=text] {
@@ -21,6 +21,10 @@ title: Search
 	}
 	#results-container {
 		margin: .5rem 0;
+		padding-left: 2em;
+		li {
+			padding-left: 2em;	
+		}
 	}
 </style>
 
