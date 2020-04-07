@@ -40,5 +40,9 @@ docker run --env=DEBUG=true --rm --volume="$PWD:/srv/jekyll" -p 3000:4000 -it je
 docker run --env=DEBUG=true --env JEKYLL_ENV=development --rm --volume="$PWD:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:3.8 jekyll build
 ```
 
+## Contributing
+
+If you'd like to make a contribution, be it tidying up the CSS, increasming perfomrance, adding a truly mobile friendly navbar (like the hamburger menu), etc. feel free to make a pull request! 
+
 ## License
 Open sourced under the [MIT License](LICENSE.md)
