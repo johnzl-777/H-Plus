@@ -54,3 +54,16 @@ defaults:
 
 google_analytics:
   tracking_id: UA-133439443-2
+
+contact:
+  email:
+    school: school@school.com
+    personal: personal@email.com
+  cell: 510-606-0262
+  linkedin: 
+    username: linked-username
+    link: www.linkedin_url.com
+  github:
+    username: github-username
+    link: www.github.com
+  
